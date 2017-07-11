@@ -2,7 +2,7 @@
 title: "day1"
 author: "Yao"
 date: "July 10, 2017"
-output: word_document
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
